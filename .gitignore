@@ -1,0 +1,9 @@
+# Mengabaikan folder environment
+venv/
+__pycache__/
+
+# Mengabaikan foto-foto uji coba kamera
+riwayat_foto/
+
+# Mengabaikan database (Opsional: Jika dospem ingin lihat, hapus baris ini)
+database_parkir.db
